@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Umair Anwar 👋
 
-<!--
-**MerryDataAnalyst/MerryDataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
-Here are some ideas to get you started:
+I am a Data Analyst with experience in marketing analytics, operational reporting, KPI analysis, and business intelligence across retail, mining, and refinery environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+* Power BI
+* SQL
+* Microsoft Excel
+* Data Analysis
+* KPI Reporting
+* Dashboard Development
+* Business Intelligence
+* Data Visualization
+
+### Featured Projects
+
+📊 Retail Sales Analytics Dashboard
+🏗️ Refinery Construction HSE Performance Dashboard
+
+### Current Focus
+
+* Power BI Development
+* Business Intelligence
+* SQL Analytics
+* Performance Reporting
+* Data-Driven Decision Making
+
+### Connect With Me
+
+LinkedIn: linkedin.com/in/MisterUmairAnwar
+
+GitHub: github.com/MerryDataAnalyst
