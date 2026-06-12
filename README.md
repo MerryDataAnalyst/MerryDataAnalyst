@@ -17,8 +17,9 @@ I am a Data Analyst with experience in marketing analytics, operational reportin
 
 ### Featured Projects
 
-📊 Retail Sales Analytics Dashboard
-🏗️ Refinery Construction HSE Performance Dashboard
+📊 [Retail Sales Analytics Dashboard](https://github.com/MerryDataAnalyst/Retail-Sales-Analytics-Dashboard)
+
+🏗️ [Refinery Construction HSE Performance Dashboard](https://github.com/MerryDataAnalyst/Refinery-HSE-Performance-Dashboard)
 
 ### Current Focus
 
